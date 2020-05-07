@@ -1,3 +1,4 @@
+*.xlsx
 build/
 coreboot-builds/
 Documentation/*.aux
