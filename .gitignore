@@ -1,0 +1,10 @@
+build/
+coreboot-builds/
+Documentation/*.aux
+Documentation/*.idx
+Documentation/*.log
+Documentation/*.toc
+Documentation/*.out
+Documentation/*.pdf
+Documentation/_build
+doxygen/*
