@@ -1,3 +1,6 @@
+*.xlsx
+*.docx
+*.pptx
 build/
 coreboot-builds/
 Documentation/*.aux
